@@ -1,0 +1,13 @@
+name: banco_dart
+description: Um projeto Dart para simular uma aplicação bancária utilizando Generics.
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  test: any
+
+dev_dependencies:
+  pedantic: ^1.11.0
+
